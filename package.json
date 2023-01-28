@@ -2,7 +2,7 @@
   "name": "cms",
   "version": "1.0.0",
   "description": "cmd description",
-  "author": "wolfwell5 <416129082@qq.com>",
+  "author": "wolfwell5 <4161*****@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
